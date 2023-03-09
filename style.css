@@ -1,0 +1,201 @@
+
+.fondo {
+    position: absolute;
+    width: 1440px;
+    height: 188px;
+    left: 0px;
+    top: 0px;
+    background: #E6E6E6;
+}
+
+
+/* logo batman */
+
+.conteiner{
+    position: absolute;
+    width: 100px;
+    height: 146px;
+    left: 670px;
+    top: 20px;
+
+background:  #E6E6E6;
+
+}
+/* curriculum */
+.fondo1{
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+    background: #C4C4C4;
+}
+.titulo{
+    position: absolute;
+    width: 1013px;
+    height: 29.87px;
+    left: 390px;
+    top: 150;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 50%;
+    color: #005677;
+    font-feature-settings: 'cpsp' on;
+}
+
+/* datos pwrsonales  */
+.datos{
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 500px;
+    background: #C4C4C4;
+}
+.letras1{
+    position: absolute;
+    width: 395px;
+    height: 17px;
+    left: 12px;
+    top: 0px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 0%;
+    color: #005677;
+    /*font-feature-settings: 'cpsp' on;*/
+}
+.datos2{
+    position: absolute;
+    width: 280px;
+    height: 13px;
+    left: 39px;
+    top: 570px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 15px;
+    color: #000000;}
+
+
+/* formacion academica */
+
+.datos3{
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 700px;
+    background: #C4C4C4;
+}
+.letras2{
+    position: absolute;
+    width: 395px;
+    height: 17px;
+    left: 12px;
+    top: 0px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 10%;
+    color: #005677;
+}
+.datos4{
+    position: absolute;
+    width: 280px;
+    height: 13px;
+    left: 39px;
+    top: 750px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 15px;
+    color: #000000;
+
+}
+
+/* experiencia laboral */
+
+.datos5{
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 900px;
+
+background: #C4C4C4;
+}
+.letras3{
+    position: absolute;
+    width: 395px;
+    height: 17px;
+    left: 12px;
+    top: 0px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 10%;
+    color: #005677;
+}
+.datos6{
+    position: absolute;
+    width: 280px;
+    height: 13px;
+    left: 39px;
+    top: 950px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 15px;
+    color: #000000;
+}
+
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 1200px;
+    background: #005677;
+    
+} 
+
+.foot{
+    /*text-align: center;*/
+    font-family: 'Times New Roman';
+    font-style: normal;
+    /*font-weight: 0;*/
+    font-size: 20px;
+    color: #efeff1;
+
+    position: absolute;
+    width: 200px;
+    /*height: 40px;*/
+    left: 600px;
+    top: -14px;
+
+}
+
+.instagram{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 772px;
+    top: 4px;
+
+}
+
+.linkedin{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 820px;
+    top: 4px; 
+}
